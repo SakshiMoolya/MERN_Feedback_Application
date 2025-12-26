@@ -1,0 +1,50 @@
+.admin-container {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 0 15px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.admin-container h2 {
+  text-align: center;
+  font-size: 28px;
+  margin-bottom: 30px;
+  color: #4f46e5;
+  letter-spacing: 1px;
+}
+
+.card {
+  background: #ffffff;
+  padding: 20px 25px;
+  margin-bottom: 20px;
+  border-left: 6px solid #4f46e5;
+  border-radius: 12px;
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+}
+
+.card p {
+  font-size: 14px;
+  line-height: 1.6;
+  color: #333;
+  margin: 6px 0;
+}
+
+.card p b {
+  color: #4f46e5;
+}
+
+@media (max-width: 600px) {
+  .card {
+    padding: 15px 18px;
+  }
+  
+  .admin-container h2 {
+    font-size: 24px;
+  }
+}
