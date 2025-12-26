@@ -153,5 +153,6 @@ The Feedback model includes the following fields:
 
 # Backend
    # Database
-<img width="888" height="631" alt="image" src="https://github.com/user-attachments/assets/7bf27c92-f701-435e-8afb-f37693b5b3db" />
+<img width="1888" height="770" alt="image" src="https://github.com/user-attachments/assets/0d489c35-70a9-4a16-95c0-9b0f85598af4" />
+
 
