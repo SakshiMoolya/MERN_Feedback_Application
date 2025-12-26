@@ -141,18 +141,3 @@ The Feedback model includes the following fields:
 - `createdAt`: Timestamp (auto-generated)
 - `updatedAt`: Timestamp (auto-generated)
 
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Test thoroughly
-5. Submit a pull request
-
-## License
-
-This project is licensed under the ISC License.
-
-## Contact
-
-For questions or support, please open an issue in the GitHub repository.
