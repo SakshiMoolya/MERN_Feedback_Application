@@ -144,14 +144,14 @@ The Feedback model includes the following fields:
 ## Screenshots
 
 # Frontend
-Feedback Form
+   # Feedback Form
 <img width="1913" height="1067" alt="image" src="https://github.com/user-attachments/assets/e2f156d7-272f-4a2d-929a-c5bb99d2fc7e" />
 <img width="814" height="1014" alt="image" src="https://github.com/user-attachments/assets/2b6ec6ab-4219-4171-9f26-e0d237ae2ebf" />
-Admin Dashboard
+   # Admin Dashboard
 <img width="1911" height="670" alt="image" src="https://github.com/user-attachments/assets/bce55eb4-e913-4533-9162-0aad45566b21" />
 <img width="888" height="631" alt="image" src="https://github.com/user-attachments/assets/93a397e3-25cb-4d77-9e62-f07c754a7518" />
 
 # Backend
-Database
+   # Database
 <img width="888" height="631" alt="image" src="https://github.com/user-attachments/assets/7bf27c92-f701-435e-8afb-f37693b5b3db" />
 
